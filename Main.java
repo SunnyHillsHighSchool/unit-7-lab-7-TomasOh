@@ -1,6 +1,7 @@
 // (c) A+ Computer Science
 // www.apluscompsci.com
 // Name - Tomas Oh
+//04/22/2021 Update to check if Ms. Deister can see the Lab (Not modified)
 
 import static java.lang.System.*;
 
